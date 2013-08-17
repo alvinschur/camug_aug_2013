@@ -53,6 +53,7 @@ class Person
 end
 
 
+people = Gateway.query(interesting_people)
 
 
 
